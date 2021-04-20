@@ -7,7 +7,7 @@ A simple package to hash passwords and verify if the password and the hash match
 yarn add password-hashing
 ```
 
-## Usage
+## Usage
 ```javascript
 import { validatePassword, hashPassword } from "password-hashing"
 
